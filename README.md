@@ -24,8 +24,7 @@ Predict the estimated price of a property using machine learning! This project d
 - **Libraries**:
   - `pandas`, `numpy` — data manipulation
   - `scikit-learn` — ML models (Linear Regression, Random Forest)
-  - `joblib` — model serialization
-  - `matplotlib`, `seaborn` — visualizations (optional)
+- Kaggle: https://www.kaggle.com/datasets/neurocipher/house-price-for-linear-regression/data
 - CLI interface: built-in Python `input()` and argument parsing
 
 ---
@@ -54,3 +53,4 @@ Predict the estimated price of a property using machine learning! This project d
    ```bash
    python scripts/predict_price.py
    ```
+
